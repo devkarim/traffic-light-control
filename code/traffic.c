@@ -2,7 +2,7 @@
   Project: Traffic Lights with Manual & Automatic Control
   Student name: Karim Wael
   Department: Communications & Electronics - 2nd Year
-  Date: 2023/7/24
+  Date: 2023/7/31
   Shoubra Faculty of Engineering
 */
 
