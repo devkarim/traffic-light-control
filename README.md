@@ -25,9 +25,9 @@ Traffic Light Control System with PIC16F877A: Efficient traffic flow, LED indica
 ## Components Used
 
 - PIC16F877A
-- IC7447
+- Four IC7447
 - Four 7-segment common anode displays
-- Buttons
+- 2 Buttons
 - Capacitors
   - 1nF
   - 33pF
