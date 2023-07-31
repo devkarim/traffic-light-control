@@ -1,0 +1,27 @@
+main
+	__CC2DW
+		____DoICP
+	startAuto
+		turnOnLeds
+		waitCurrentState
+			count
+				Div_16x16_S
+					Div_16x16_S_L
+				Dec2Bcd
+					Div_8X8_U
+				goNextState
+				turnOnLeds
+				Delay_1sec
+		goNextState
+	startManual
+		turnOnLeds
+		count
+			Div_16x16_S
+				Div_16x16_S_L
+			Dec2Bcd
+				Div_8X8_U
+			goNextState
+			turnOnLeds
+			Delay_1sec
+		goNextState
+interrupt
