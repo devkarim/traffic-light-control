@@ -2,7 +2,7 @@
 
 ## Overview
 
-Traffic Light Control System with PIC16F877A: Efficient traffic flow, LED indicators, countdown timers, and manual override. This project belogns to Embedded Systems Summer Course at Shoubra Faculty of Engineering.
+Traffic Light Control System with PIC16F877A: Efficient traffic flow, LED indicators, countdown timers, and manual override. This project belogns to Embedded Systems Summer Course at Shoubra Faculty of Engineering. You can watch via this link: https://www.youtube.com/watch?v=TShgkF-f0rU
 
 - Department: 2nd Year of Communications & Electronics.
 - Date: 2023/7/31
